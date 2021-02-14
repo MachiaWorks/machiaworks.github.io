@@ -10,11 +10,7 @@ Wordpressだとページ編集がDB依存なので、改造すると割と破綻
 
 あと本家Webページが割と趣味に走ってるのもあって、まじめに書いてるっぽく作るためのページです。
 
-## ページ編集者について
+### ページ編集者について
 
-Author : Tomohiro Hayakawa(a.k.a. MachiaWorks / MachiaWorx / Machia)
-
-Job : System engineer in a bank
-
-Skill : Graphic Programming, Sound Synthesis, Embedded Programming Language in Application, Making Tools (not related job!)
+[こちら](contents/about.html)をご参照ください。
 
