@@ -12,7 +12,7 @@
 ### 利用言語
 
 * 仕事では過去にPL/1、C、Java、JavaScript、Ruby等を記述。今は全然。
-* 趣味ではC、C++、C#、アセンブラ(x86/x87/SSE)、Lua、Lisp、Scheme、Miniscript。C言語以外はまだ始めたばかりの状態ですが。
+* 趣味ではC、C++、C#、アセンブラ(x86/x87/SSE)、Lua、Lisp、Scheme、Miniscript
 
 ### 興味のある分野・技術
 
@@ -25,9 +25,9 @@
   * Miniscript/Lisp/Scheme/Lua/Squirrel
   * CSVベースのDSLを自作経験あり
 * ツール作成/利用
-  * 各種ツールの自作（シェーダ記述・音楽シーケンサ・簡易言語等）
+  * 各種ツールの自作（シェーダ記述・音楽シーケンサ等）
 
-### ポートフォリオ
+### ポートフォリオ（作成中）
 
 * 2010 "game synchronizing to music - trial."(C++)
 * 2012 64kintro デモ "SCOTTIE" 音楽担当(C/asm/DAW)
@@ -35,4 +35,5 @@
 * 2016 GLSL Compo "awa-awa"(GLSL)
 * 2017 Music "My first Synth!"(C/asm)
 * 2018 4kintro デモ "a stranger"(C/asm/GLSL)
+* 2018 4kintro用のグラフィック作成ツール/音楽作成ツール公開(C/GLSL)
 * 2018-2021 インディーゲーム "OTOME BLADE" 作成中(Unity/C#)
