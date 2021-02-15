@@ -4,14 +4,14 @@ Author : Tomohiro Hayakawa(a.k.a. MachiaWorks / MachiaWorx / Machia)
 
 Job : System engineer in a bank(2008～)
 
-Skill : 
+interested in : 
 
 * Graphic Programming
-  (ex. DirectX/OpenGL/raymarching)
+  (ex. DirectX/OpenGL/RayMarching/RayTracing)
 * Sound Synthesis
-  (ex. Analog Modeling/FM Synthesis/Sound Shader)
+  (ex. Analog Modeling/FM Synthesis/SoundShader)
 * Embedded Programming Language in Application
-  (ex. Miniscript/Lisp/Scheme)
+  (ex. Miniscript/Lisp/Scheme/Lua/Squirrel)
 * Making Tools
   (ex. shader making/sound shader making/music sequencer)
 
