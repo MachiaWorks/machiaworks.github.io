@@ -1,28 +1,38 @@
 ## ページ編集者について
 
-Author : Tomohiro Hayakawa(a.k.a. MachiaWorks / MachiaWorx / Machia)
+### 自己紹介
 
-Job : System engineer in a bank(2008～)
+* 早川 朋宏 (a.k.a. MachiaWorks / MachiaWorx / Machia)
 
-interested in : 
+### 経歴
 
-* Graphic Programming
-  (ex. DirectX/OpenGL/RayMarching/RayTracing)
-* Sound Synthesis
-  (ex. Analog Modeling/FM Synthesis/SoundShader)
-* Embedded Programming Language in Application
-  (ex. Miniscript/Lisp/Scheme/Lua/Squirrel)
-* Making Tools
-  (ex. shader making/sound shader making/music sequencer)
+* 2008年 金融系SEの会社に所属
+* 2021年 会社合併、所属会社変更
 
-Career (about programming): 
+### 利用言語
+
+* 仕事では過去にPL/1、C、Java、JavaScript、Ruby等を記述。今は全然。
+* 趣味ではC、C++、C#、アセンブラ(x86/x87/SSE)、Lua、Lisp、Scheme、Miniscript。C言語以外はまだ始めたばかりの状態ですが。
+
+### 興味のある分野・技術
+
+* グラフィックプログラミング
+  * DirectX/OpenGL/レイトレーシング/レイマーチング/ポストプロセス
+* サウンドシンセシス
+  * アナログモデリング/FM音源/波形メモリ音源
+  * 各種フィルタの実装
+* アプリケーションへの言語組み込み
+  * Miniscript/Lisp/Scheme/Lua/Squirrel
+  * CSVベースのDSLを自作経験あり
+* ツール作成/利用
+  * 各種ツールの自作（シェーダ記述・音楽シーケンサ・簡易言語等）
+
+### ポートフォリオ
 
 * 2010 "game synchronizing to music - trial."(C++)
-* 2012 64k intro demo "SCOTTIE"
-  making music(C/asm/DAW)
-* 2013 64k intro demo "Candy -TokyoDemoFest2013 invitation-" 
-  making music (C/asm/DAW/HTML/Ruby)
+* 2012 64kintro デモ "SCOTTIE" 音楽担当(C/asm/DAW)
+* 2013 64kintro デモ "Candy -TokyoDemoFest2013 invitation-"  音楽担当 (C/asm/DAW/HTML/Ruby)
 * 2016 GLSL Compo "awa-awa"(GLSL)
 * 2017 Music "My first Synth!"(C/asm)
-* 2018 4k intro demo"a stranger"(C/asm/GLSL)
-* 2018-2021 Indie-game "OTOME BLADE"(Unity/C#, now developing!)
+* 2018 4kintro デモ "a stranger"(C/asm/GLSL)
+* 2018-2021 インディーゲーム "OTOME BLADE" 作成中(Unity/C#)
