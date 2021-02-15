@@ -25,7 +25,6 @@
 
 マテリアルはEditor上で指定して、その際Materialはテクスチャを参照するようにしてください。
 
-~~~csharp
 ```csharp
 using UnityEngine;
 using System.Collections;
@@ -186,7 +185,6 @@ public class DynamicMeshUsingDrawMesh : MonoBehaviour {
     }
 }
 ```
-~~~
 
 参考URL
 
